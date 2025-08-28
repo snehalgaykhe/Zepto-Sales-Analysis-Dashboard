@@ -1,8 +1,4 @@
-# Zepto-Sales-Analysis-Dashboard
-
-
-
-![Uploading Screenshot 2025-08-25 171151.png…]()
+<img width="1920" height="1080" alt="Screenshot 2025-08-25 171151" src="https://github.com/user-attachments/assets/4e805168-3c26-494c-8ff3-b13f72e061c0" /># Zepto-Sales-Analysis-Dashboard
 
 📖 Overview   
 
