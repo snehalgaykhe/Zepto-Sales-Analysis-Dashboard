@@ -3,6 +3,7 @@
 
 <img width="1920" height="1080" alt="Screenshot 2025-08-25 171151" src="https://github.com/user-attachments/assets/4e805168-3c26-494c-8ff3-b13f72e061c0" />
 
+
 📖 Overview   
 
 The Zepto Sales Analysis Dashboard is a Power BI project that provides comprehensive insights into sales performance, outlet distribution, and product demand.   It visualizes sales trends, item categories, outlet types, and customer preferences to help retail businesses optimize operations, track performance, and enhance decision-making.   
